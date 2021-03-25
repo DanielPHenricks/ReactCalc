@@ -1,6 +1,3 @@
 # Hey. 
 ---
----
----
-
-Read this.
+This is a calculator made in react. 
